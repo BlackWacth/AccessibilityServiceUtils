@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AccessibilityServiceUtils</string>
+    <string name="monitor_accessibility_service_description">监听界面发生的一切</string>
+
+    <string name="dialog_enable_accessibility_msg">打开 设置 -> 无障碍 -> 屏幕监听开关</string>
+    <string name="dialog_enable_accessibility_positive_btn">去设置</string>
+    <string name="accessibility_service_label">屏幕监听</string>
+</resources>
